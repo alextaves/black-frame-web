@@ -1,0 +1,17 @@
+3:"$Sreact.fragment"
+4:I[5770,["839","static/chunks/839-ee0b8cfd2b2dd0ab.js","177","static/chunks/app/layout-1b924ef3958e0cf5.js"],"default"]
+5:I[5244,[],""]
+6:I[6310,["39","static/chunks/app/error-2842205413e558f2.js"],"default"]
+7:I[3866,[],""]
+8:I[4839,["839","static/chunks/839-ee0b8cfd2b2dd0ab.js","345","static/chunks/app/not-found-8552e908dea6926d.js"],""]
+9:I[3861,["839","static/chunks/839-ee0b8cfd2b2dd0ab.js","177","static/chunks/app/layout-1b924ef3958e0cf5.js"],"default"]
+a:I[6213,[],"OutletBoundary"]
+c:I[6213,[],"MetadataBoundary"]
+e:I[6213,[],"ViewportBoundary"]
+10:I[4788,["219","static/chunks/app/global-error-86f3c14b2ce428ae.js"],"default"]
+1:HL["/_next/static/media/a34f9d1faa5f3315-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:HL["/_next/static/css/1f4c0de4703c8ec0.css","style"]
+0:{"P":null,"b":"0FsIpTs0OHTpOMYkRokEu","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$3","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1f4c0de4703c8ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_d65c78 m-0 p-0","children":[["$","$L4",null,{}],["$","main",null,{"className":"mt-0","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$6","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"text-center p-6 bg-white/10 backdrop-blur-sm rounded-lg","children":[["$","h2",null,{"className":"text-xl font-semibold mb-4","children":"Page Not Found"}],["$","p",null,{"className":"mb-4","children":"The page you're looking for doesn't exist"}],["$","$L8",null,{"href":"/","className":"px-4 py-2 bg-white/20 hover:bg-white/30 transition-colors rounded inline-block","children":"Return Home"}]]}]}],"notFoundStyles":[]}]}],["$","$L9",null,{}]]}]}]]}],{"children":["__PAGE__",["$","$3","c",{"children":[["$","main",null,{"className":"w-full mt-60","children":[" ",["$","div",null,{"className":"pl-8","children":[["$","div",null,{"className":"mb-3","children":[["$","h1",null,{"className":"text-xl tracking-wider","children":"BLACK FRAME"}],["$","h2",null,{"className":"text-lg tracking-wide mt-2","children":"ALEX TAVES"}]]}],["$","p",null,{"className":"text-sm tracking-wide text-gray-500 max-w-[600px]","children":["Experimental playground",["$","br",null,{}],"of personal work, some using",["$","br",null,{}],"MIDJOURNEY AI to create",["$","br",null,{}],"new narratives"]}]]}]]}],null,["$","$La",null,{"children":"$Lb"}]]}],{},null]},null],["$","$3","h",{"children":[null,["$","$3","sKzNnl-ZvOKlzyaI_NB44",{"children":[["$","$Lc",null,{"children":"$Ld"}],["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust"}]]}]]}]]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+f:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"BLACK FRAME | Alex Taves"}],["$","meta","2",{"name":"description","content":"Exploration and remixing of personal work using MIDJOURNEY AI"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+b:null
