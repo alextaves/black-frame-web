@@ -1,6 +1,5 @@
+// src/app/global-error.tsx
 'use client'
-
-import { useEffect } from 'react'
  
 export default function GlobalError({
   error,
@@ -9,11 +8,6 @@ export default function GlobalError({
   error: Error & { digest?: string }
   reset: () => void
 }) {
-  useEffect(() => {
-    // Log the error
-    console.error('Global error:', error);
-  }, [error]);
-
   return (
     <html>
       <body>
