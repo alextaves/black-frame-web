@@ -9,11 +9,11 @@ export const metadata: Metadata = {
 
 export default function Home() {
   return (
-    <main className="w-full mt-60"> {/* This creates space for the nav */}
+    <main className="w-full mt-60 bg-white"> {/* Added bg-white here */}
       <div className="pl-8">
         <div className="mb-3">
-          <h1 className="text-xl tracking-wider">BLACK FRAME</h1>
-          <h2 className="text-lg tracking-wide mt-2">ALEX TAVES</h2>
+          <h1 className="text-xl tracking-wider text-black">BLACK FRAME</h1> {/* Added text-black */}
+          <h2 className="text-lg tracking-wide mt-2 text-black">ALEX TAVES</h2> {/* Added text-black */}
         </div>
         <p className="text-sm tracking-wide text-gray-500 max-w-[600px]">
           Experimental playground
